@@ -34,35 +34,35 @@ class CBtn(InlineKeyboardButton):
         return d
 
 # ══════════════════════════════════════════════════
-BOT_TOKEN      = "8617578553:AAE4OI--26rJERQeWgaEHOeSwcKRNGjy4fI"
-BOT_USERNAME   = "TgElite_Bot"
-SUPER_ADMIN_ID = 8064493735
-ADMIN_USERNAME = "xvghfsy"
+BOT_TOKEN      = "8852281634:AAEVJJa57AWetfySG5O9XnY6cfxpS2h7eeE"
+BOT_USERNAME   = "Trial_reff_not_bot"
+SUPER_ADMIN_ID = 8568920176
+ADMIN_USERNAME = "Trialreff_not"
 
-DEVELOPER_ID       = 5260776753
-DEVELOPER_USERNAME = "CypherRaaz"
-DEVELOPER_NAME     = "𓆩 ＧＯＤ ✘ ＧＥＮＳＨＩＮ ⏤͟͟͞͞『 𓆪』᭄"
+DEVELOPER_ID       = 8568920176
+DEVELOPER_USERNAME = "Trialreff_not"
+DEVELOPER_NAME     = "♡"
 
 # ── Payout Channel ─────────────────────────────
-PAYOUT_CHANNEL = "@tg_payout"
+PAYOUT_CHANNEL = "@Trial_reff_payout"
 PAYOUT_IMAGE   = os.path.join(os.path.dirname(os.path.abspath(__file__)), "payout.jpeg")
 
 # ── Force Join — exactly 5 channels ───────────
 # Format: ("chat_id_or_@username", "invite_url", "Name")
 FORCE_CHANNELS = [
-    ("-1002401456024",  "https://t.me/+M7kxNIGQYdEwOWY1",  "Channel 1"),
-    ("-1003332091257", "https://t.me/+yHYIzPYxgE9mYjVl",       "Channel 2"),
-    ("@teamsterniters",  "https://t.me/teamsterniters",   "Channel 3"),
-    ("-1002865265233",  "https://t.me/+mC4b8CPNqbIzNGU1",  "Channel 4"),
-    ("@OSINTERA_1",  "https://t.me/OSINTERA_1",   "Channel 5"),
+    ("-1003636067157",  "https://t.me/+_NQfMF5fIzE4OGJl",  "Channel 1"),
+    ("-1003540876217", "https://t.me/+xHCKlYL5qlFhNjVl",       "Channel 2"),
+    ("-1003906956450",  "https://t.me/+hqO7qNxyro4zNmJl",   "Channel 3"),
+    ("-1003956634972",  "https://t.me/+IQ7rcjSz3OM0NGQ9",  "Channel 4"),
+    ("-1003802038620",  "https://t.me/+Bjut1fAuiQ03MWRl",   "Channel 5"),
 ]
 
 # ── Optional suggested channels ─────────────────
 OPTIONAL_CHANNELS = [
-    ("📢 Channel 1", "https://t.me/+v1Jg0WD22sRmY2Vl"),
-    ("🎮 Channel 2", "https://t.me/+ofP9DHGpIeo1NjU1"),
-    ("💬 Channel 3", "https://t.me/+Esm0C3hIK8I1ZDg1"),
-    ("💬 FOLDER ", "https://t.me/addlist/okJLUEyA1CI2YmNl"),
+    ("📢 Channel 1", "https://t.me/+2aQSZNlpucwzYWZl"),
+    ("🎮 Channel 2", "https://t.me/+PfmukOzMxgYxYTI1"),
+    ("💬 Channel 3", "https://t.me/+_kltxXu9su9lMTZl"),
+    ("💬 FOLDER ", "https://t.me/addlist/li_T2OpcQSs5Yzhl"),
 ]
 
 START_PHOTO     = os.path.join(os.path.dirname(os.path.abspath(__file__)), "img.jpeg")
