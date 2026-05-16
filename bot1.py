@@ -34,14 +34,14 @@ class CBtn(InlineKeyboardButton):
         return d
 
 # ══════════════════════════════════════════════════
-BOT_TOKEN      = "8852281634:AAEVJJa57AWetfySG5O9XnY6cfxpS2h7eeE"
-BOT_USERNAME   = "Trial_reff_not_bot"
-SUPER_ADMIN_ID = 8568920176
-ADMIN_USERNAME = "Trialreff_not"
+BOT_TOKEN      = "8961482675:AAHLvLl0OkHBooPGQxY_skkynOffbuPf8EA"
+BOT_USERNAME   = "btwg_referal_bot"
+SUPER_ADMIN_ID = 5094080507
+ADMIN_USERNAME = "btwg_7"
 
-DEVELOPER_ID       = 8568920176
-DEVELOPER_USERNAME = "Trialreff_not"
-DEVELOPER_NAME     = "♡"
+DEVELOPER_ID       = 5094080507
+DEVELOPER_USERNAME = "Vebanu_x"
+DEVELOPER_NAME     = "𝚂𝚊𝚖𝚞𝚎𝚕~"
 
 # ── Payout Channel ─────────────────────────────
 PAYOUT_CHANNEL = "@Trial_reff_payout"
@@ -50,19 +50,19 @@ PAYOUT_IMAGE   = os.path.join(os.path.dirname(os.path.abspath(__file__)), "payou
 # ── Force Join — exactly 5 channels ───────────
 # Format: ("chat_id_or_@username", "invite_url", "Name")
 FORCE_CHANNELS = [
-    ("-1003636067157",  "https://t.me/+_NQfMF5fIzE4OGJl",  "Channel 1"),
-    ("-1003540876217", "https://t.me/+xHCKlYL5qlFhNjVl",       "Channel 2"),
-    ("-1003906956450",  "https://t.me/+hqO7qNxyro4zNmJl",   "Channel 3"),
-    ("-1003956634972",  "https://t.me/+IQ7rcjSz3OM0NGQ9",  "Channel 4"),
-    ("-1003802038620",  "https://t.me/+Bjut1fAuiQ03MWRl",   "Channel 5"),
+    ("@cheap_otts",  "https://t.me/cheap_otts",  "Channel 1"),
+    ("@btwg_cheap_ott_bot", "https://t.me/btwg_cheap_ott_bot",       "Channel 2"),
+    ("@btwgdeal",  "https://t.me/btwgdeal",   "Channel 3"),
+    ("@movie_direct_link_music_group",  "https://t.me/movie_direct_link_music_group",  "Channel 4"),
+    ("@cheap_otts_low_price",  "https://t.me/cheap_otts_low_price",   "Channel 5"),
 ]
 
 # ── Optional suggested channels ─────────────────
 OPTIONAL_CHANNELS = [
-    ("📢 Channel 1", "https://t.me/+2aQSZNlpucwzYWZl"),
-    ("🎮 Channel 2", "https://t.me/+PfmukOzMxgYxYTI1"),
-    ("💬 Channel 3", "https://t.me/+_kltxXu9su9lMTZl"),
-    ("💬 FOLDER ", "https://t.me/addlist/li_T2OpcQSs5Yzhl"),
+    ("📢 Channel 1", ""),
+    ("🎮 Channel 2", ""),
+    ("💬 Channel 3", ""),
+    ("💬 FOLDER ", ""),
 ]
 
 START_PHOTO     = os.path.join(os.path.dirname(os.path.abspath(__file__)), "img.jpeg")
