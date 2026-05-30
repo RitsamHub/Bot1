@@ -59,10 +59,10 @@ FORCE_CHANNELS = [
 
 # ── Optional suggested channels ─────────────────
 OPTIONAL_CHANNELS = [
-    ("📢 Channel 1", "https://t.me/cheap_otts"),
-    ("🎮 Channel 2", "https://t.me/btwgmoviesupdates"),
-    ("💬 Channel 3", "https://t.me/cheap_otts_low_price"),
-    ("💬 FOLDER ", "https://t.me/addlist/J7ua7wtpYzAwZTdl"),
+    ("📢 Channel 1", "https://t.me/+_kltxXu9su9lMTZl"),
+    ("🎮 Channel 2", "https://t.me/+PfmukOzMxgYxYTI1"),
+    ("💬 Channel 3", "https://t.me/+2aQSZNlpucwzYWZl"),
+    ("💬 FOLDER ", "https://t.me/addlist/xAIw53Oe8Xw2MmVl"),
 ]
 
 START_PHOTO     = os.path.join(os.path.dirname(os.path.abspath(__file__)), "img.jpeg")
