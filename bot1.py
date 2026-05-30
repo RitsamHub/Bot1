@@ -34,7 +34,7 @@ class CBtn(InlineKeyboardButton):
         return d
 
 # ══════════════════════════════════════════════════
-BOT_TOKEN      = "8961482675:AAHLvLl0OkHBooPGQxY_skkynOffbuPf8EA"
+BOT_TOKEN      = ""
 BOT_USERNAME   = "btwg_referal_bot"
 SUPER_ADMIN_ID = 5076584501
 ADMIN_USERNAME = "btwg_7"
