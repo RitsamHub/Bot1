@@ -51,7 +51,7 @@ PAYOUT_IMAGE   = os.path.join(os.path.dirname(os.path.abspath(__file__)), "payou
 # Format: ("chat_id_or_@username", "invite_url", "Name")
 FORCE_CHANNELS = [
     ("@cheap_otts",  "https://t.me/cheap_otts",  "Channel 1"),
-    ("@btwg_cheap_ott_bot", "https://t.me/btwg_cheap_ott_bot",       "Channel 2"),
+    ("@btwgmoviesupdates", "https://t.me/btwgmoviesupdates",       "Channel 2"),
     ("@btwgdeal",  "https://t.me/btwgdeal",   "Channel 3"),
     ("@movie_direct_link_music_group",  "https://t.me/movie_direct_link_music_group",  "Channel 4"),
     ("@cheap_otts_low_price",  "https://t.me/cheap_otts_low_price",   "Channel 5"),
@@ -59,10 +59,10 @@ FORCE_CHANNELS = [
 
 # ── Optional suggested channels ─────────────────
 OPTIONAL_CHANNELS = [
-    ("📢 Channel 1", ""),
-    ("🎮 Channel 2", ""),
-    ("💬 Channel 3", ""),
-    ("💬 FOLDER ", ""),
+    ("📢 Channel 1", "https://t.me/cheap_otts"),
+    ("🎮 Channel 2", "https://t.me/btwgmoviesupdates"),
+    ("💬 Channel 3", "https://t.me/cheap_otts_low_price"),
+    ("💬 FOLDER ", "https://t.me/addlist/J7ua7wtpYzAwZTdl"),
 ]
 
 START_PHOTO     = os.path.join(os.path.dirname(os.path.abspath(__file__)), "img.jpeg")
